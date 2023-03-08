@@ -1,6 +1,6 @@
 /* khối sec 1*/
 .main{
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//banner-bg.png");
+    background-image: url("https://dn12o9.github.io/DN1209///banner-bg.png");
     background-repeat: no-repeat;
     background-size:100% 100%;
     width: 100%;
@@ -277,7 +277,7 @@
 }
 /* main 5*/
 .main__5{
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//bg-1.png");
+    background-image: url("https://dn12o9.github.io/DN1209//bg-1.png");
 }
 .main__5-box{
     text-align: center;
@@ -322,7 +322,7 @@
 .main__6-box-ctn{
     width: 30%;
     height: 340px;
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//img-4.png");
+    background-image: url("https://dn12o9.github.io/DN1209//img-4.png");
     margin: 0 auto 0 auto;
     position: relative;
     transition: 0.4s all linear;
@@ -331,10 +331,10 @@
 
 }
 .main__6-box-ctn--middle{
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//img-5.png") ;
+    background-image: url("https://dn12o9.github.io/DN1209//img-5.png") ;
 }
 .main__6-box-ctn--right{
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//img-6.png") ;
+    background-image: url("https://dn12o9.github.io/DN1209//img-6.png") ;
 }
 .main__6-overlay{
     position: absolute;
@@ -357,7 +357,7 @@
 
 }
 .main__7{
-    background-image: url("https://dn12o9.github.io/DN1209.github.io//contact-bg.png");
+    background-image: url("https://dn12o9.github.io/DN1209//contact-bg.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 50px 0 100px 0;
